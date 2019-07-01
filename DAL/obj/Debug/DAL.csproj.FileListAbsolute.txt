@@ -1,0 +1,11 @@
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\bin\Debug\DAL.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\bin\Debug\DAL.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\obj\Debug\DAL.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\obj\Debug\DAL.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\bin\Debug\Entities.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\bin\Debug\Entities.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sam\Desktop\revature\project\Bank-project_0\DAL\obj\Debug\DAL.csproj.CopyComplete

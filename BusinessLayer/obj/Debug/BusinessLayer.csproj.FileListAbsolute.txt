@@ -1,0 +1,13 @@
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\DAL.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\DAL.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\BusinessLayer\bin\Debug\Newtonsoft.Json.xml

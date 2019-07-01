@@ -1,0 +1,9 @@
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\bin\Debug\Entities.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\bin\Debug\Entities.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\obj\Debug\Entities.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\obj\Debug\Entities.pdb
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sam\Desktop\revature\project\Bank-project_0\Entities\obj\Debug\Entities.csproj.CopyComplete
