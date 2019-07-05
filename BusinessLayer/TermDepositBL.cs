@@ -18,7 +18,7 @@ namespace BusinessLayer
             {
                 ID = new IDgenerator().GenerateID(),
                 Amount = Math.Round(amount * 1.1),
-                Maturity = DateTime.Now.AddDays(1)
+                Maturity = DateTime.Now.AddDays(4)
             };
 
             current.TDList.Add(newTD);
